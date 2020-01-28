@@ -1,1 +1,1 @@
-**Strong** __My First Project In Holberton School__
+__My First Project In Holberton School__
